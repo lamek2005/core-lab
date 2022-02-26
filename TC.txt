@@ -1,1 +1,1 @@
-working as super
+working as supervisory
