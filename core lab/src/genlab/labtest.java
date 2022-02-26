@@ -9,7 +9,7 @@ public class labtest {
 		System.out.println("print something");
 		System.out.println("print something");
 		System.out.println("print something");
-		System.out.println("print something");
+		
 		
 		
 	}
